@@ -47,8 +47,7 @@ if dia == "d":
     des7 = ((valor *1)/100)
     descuento_d = (valor-des7)
     print ("Su producto tiene un descuento de 1% ")
-    print ("El valor final de su producto es de -> ", descuento_m}d , "pesos")
+    print ("El valor final de su producto es de -> ", descuento_d , "pesos")
     
-    
-
+print ("Gracias por utilizar este programa")    
             
