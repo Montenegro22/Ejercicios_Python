@@ -8,4 +8,6 @@ año = (int(input("Ingrese el año actual -> ")))
 resultado = (2070-año)
 resultado_final = (resultado+edad)
 
-print ("Su edad en el año 2070 serán " +resultado_final+ "años")
+print ("Su edad en el año 2070 será de -> ",resultado_final, "años")
+
+print ("Muchas gracias por utilizar este programa")
