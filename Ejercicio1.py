@@ -9,3 +9,4 @@ print("El número digitado es par")
 else
 print("El número digitado es impar")
 
+print ("Muchas gracias por utilizar este programa")
